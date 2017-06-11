@@ -3,13 +3,10 @@ EasyDust.h
 
 This Library is for SHARP gp2y1010 and gp2y1014 dust sensor.
 
-for sending pre-pulses to get correct Sensor Led current and then get avg of several reads , make blocking codes possible to acheive.
+Designed to send pre-pulses and then do several reads to get average value to reduce noise , with the pre-pulses , correct value can be achived at any time no matter blocking code used or not.
 
 
 yonoodle hsieh , yonoodle1@gmail.com , version 1  2017/06/10
-
-  MIT License
-
 
 
 KEYWORD
